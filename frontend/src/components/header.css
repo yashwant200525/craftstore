@@ -1,0 +1,13 @@
+.nav-link {
+    color: rgb(211, 211, 211); /* Ensure the links are white */
+}
+
+.nav-link:hover {
+    color: #f57c00; /* Change hover color as desired */
+}
+.craft{
+    color: rgb(255, 255, 255);
+    padding-left: 37%;
+    font-family:cursive;
+
+}
